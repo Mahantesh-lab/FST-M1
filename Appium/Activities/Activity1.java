@@ -19,7 +19,7 @@ public class Activity1 {
 AppiumDriver driver;
 	
 	//create setup function
-	
+	//MahanteshAssignment
 	@BeforeClass
 	public void setup() throws MalformedURLException, URISyntaxException {
 		
