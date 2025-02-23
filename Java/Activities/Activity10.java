@@ -5,7 +5,7 @@ import java.util.HashSet;
 public class Activity10 {
 
 	public static void main(String[] args) {
-		
+	        System.out.println("Mahantesh Assignment");
 		HashSet<String> hs = new HashSet<String>();
 		hs.add("Lion");
 		hs.add("Tiger");
