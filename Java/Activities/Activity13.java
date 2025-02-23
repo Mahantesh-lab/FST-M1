@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Activity13 {
 
 	public static void main(String[] args) {
-			
+		System.out.println("Mahantesh Assignment");
 		Scanner scan = new Scanner(System.in);
 		Random indexgen = new Random();		
 		ArrayList<Integer> list = new ArrayList<Integer>();
