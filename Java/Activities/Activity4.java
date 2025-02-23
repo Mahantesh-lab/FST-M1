@@ -6,6 +6,7 @@ public class Activity4 {
 
 public static void main(String args[])
 {
+    System.out.println("Mahantesh Assignment");
     int arr[] = { 12, 11, 13, 5, 6 };
     int n = arr.length;
     
@@ -18,10 +19,10 @@ public static void main(String args[])
     
     
     
-    InserSortClassActivity4 is = new InserSortClassActivity4();
+    InserSortClassActivity4 ist = new InserSortClassActivity4();
     
-    is.sort(arr, n);
-    is.printArray(arr, n);
+    ist.sort(arr, n);
+    ist.printArray(arr, n);
     
     
     
