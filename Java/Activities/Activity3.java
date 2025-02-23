@@ -3,6 +3,7 @@ package fst_m1_java;
 public class Activity3 {
 
 	public static void main(String[] args) {
+        System.out.println("Mahantesh Assignment");
 		double seconds = 1000000000;
 
         double EarthSeconds = 31557600;
