@@ -161,7 +161,7 @@
               </con:configuration>
             </con:assertion>
             <con:credentials>
-              <con:selectedAuthProfile>AdminNand</con:selectedAuthProfile>
+              <con:selectedAuthProfile>AdminMahan</con:selectedAuthProfile>
               <con:authType>No Authorization</con:authType>
             </con:credentials>
             <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
@@ -179,7 +179,7 @@
             <con:endpoint>https://api.github.com</con:endpoint>
             <con:request>{
 	"title": "TestKey",
-     "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFdb5mdcjLZ4Q0GIZiG8aj3h24Ndp/VA15FKmhFlVjzN azuread\\nandhinir7@IBM-88S2KN3"
+     "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFdb5mdcjLZ4Q0GIZiG8aj3h24Ndp/VA15FKmhFlVjzN azuread\\mahantesh@IBM-88S2KN3"
 }</con:request>
             <con:originalUri>https://api.github.com/user/keys</con:originalUri>
             <con:assertion type="Valid HTTP Status Codes" id="5615c45d-ddd1-4c61-9919-fec9a5fa8a0b" name="Valid HTTP Status Codes">
@@ -189,7 +189,7 @@
               </con:configuration>
             </con:assertion>
             <con:credentials>
-              <con:selectedAuthProfile>AdminNand</con:selectedAuthProfile>
+              <con:selectedAuthProfile>AdminMahan</con:selectedAuthProfile>
               <con:authType>No Authorization</con:authType>
             </con:credentials>
             <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
@@ -231,7 +231,7 @@
               </con:configuration>
             </con:assertion>
             <con:credentials>
-              <con:selectedAuthProfile>AdminNand</con:selectedAuthProfile>
+              <con:selectedAuthProfile>AdminMahan</con:selectedAuthProfile>
               <con:authType>No Authorization</con:authType>
             </con:credentials>
             <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
@@ -257,7 +257,7 @@
   <con:jmsConnectionContainer/>
   <con:oAuth2ProfileContainer>
     <con:oAuth2Profile>
-      <con:name>AdminNand</con:name>
+      <con:name>AdminMahan</con:name>
       <con:type>OAuth 2.0</con:type>
       <con:accessToken>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</con:accessToken>
       <con:accessTokenPosition>HEADER</con:accessTokenPosition>
@@ -305,7 +305,7 @@
   </con:eventHandlers>
   <con:authRepository>
     <con:oAuth20AuthEntry>
-      <con:name>AdminNand</con:name>
+      <con:name>AdminMahan</con:name>
       <con:type>OAuth 2.0</con:type>
       <con:accessToken>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</con:accessToken>
       <con:accessTokenPosition>HEADER</con:accessTokenPosition>
