@@ -4,9 +4,10 @@ public class Activity8 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("Mahantesh Assignment");
 		try {
-		Activity8.exceptionTest("Welcome");// non null
-		Activity8.exceptionTest(null);// null\
+		Activity8.exceptionTest("Welcome");
+		Activity8.exceptionTest(null);
 		
 		}
 		catch(CustomExceptionActivity8 me) {
