@@ -7,6 +7,7 @@ public class Activity6 {
 	
 
 	public static void main(String[] args) throws InterruptedException  {
+		System.out.println("Mahantesh Assignment");
 		Plane_Activity6 plane = new Plane_Activity6(10);
 		plane.onboard("kiran");
 		plane.onboard("Akiran");
