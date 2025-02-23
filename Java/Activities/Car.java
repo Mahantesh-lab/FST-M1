@@ -1,34 +1,27 @@
+package fst_m1_java;
 
 public class Car {
 	
-	//State 
-	public String color;
-	public String transmission;
-	public int make;
-	public int tyres;
-	public int speed;
+	String color;
+	String type;
+	int wheels;
+	int speed;
 	
-	public Car(String color,String transmission,int make,int tyres,int speed) {
-		
+	Car(String color, String type, int wheels, int speed){
 		this.color=color;
-		this.transmission=transmission;
-		this.make=make;
-		this.tyres=tyres;
+		this.type=type;
+		this.wheels=wheels;
 		this.speed=speed;
-		
-		
-		
-	}
-	public void accelerate() {
-		this.speed++;
-		
 	}
 	
-	public void brake() {
-		this.speed=0;
+	public void increase(int s) {
+		System.out.println(s++);
 	}
 	
+	public void printColor(String color)
+	{
+		System.out.println("Color of the car is" +color);
+	}
 	
-	//behaviour
 
 }
