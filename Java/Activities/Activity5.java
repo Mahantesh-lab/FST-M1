@@ -3,6 +3,7 @@ package fst_m1_java;
 public class Activity5 {
 
 	public static void main(String[] args) {
+		System.out.println("Mahantesh Assignment");
 		String title = "Anna Karenina";
 		MyBook_Activity5 novel = new MyBook_Activity5();
 		novel.setTitle(title);
