@@ -20,7 +20,7 @@ public class ProjectTaskAppActivity1 {
 	AppiumDriver driver;
 	@BeforeClass
 	public void setup() throws MalformedURLException, URISyntaxException {
-		
+		//MahanteshAssignment
 		//Desired capabilities
 		UiAutomator2Options options = new UiAutomator2Options();
 		options.setPlatformName("android");//this line is to connect to the mob
