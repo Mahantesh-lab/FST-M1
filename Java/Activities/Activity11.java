@@ -5,6 +5,7 @@ import java.util.HashMap;
 public class Activity11 {
 
 	public static void main(String[] args) {
+		System.out.println("Mahantesh Assignment");
 		HashMap<Integer, String> hm = new HashMap<Integer, String>();
 		
 		hm.put(1, "Green");
