@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Activity9 {
 	public static void main(String[] args) {
-	
+	System.out.println("Mahantesh Assignment");
 	ArrayList<String> mylist = new ArrayList<String>();
 	mylist.add("Arun");
 	mylist.add("Adheethan");
