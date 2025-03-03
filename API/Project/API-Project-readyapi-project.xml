@@ -179,7 +179,7 @@
             <con:endpoint>https://api.github.com</con:endpoint>
             <con:request>{
 	"title": "TestKey",
-     "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFdb5mdcjLZ4Q0GIZiG8aj3h24Ndp/VA15FKmhFlVjzN azuread\\mahantesh@IBM-88S2KN3"
+     "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFi6AitBZGzIcEnbMUOCMjiFlKXG5OQEHRxLLVnH0RKH azuread\\mahanteshmulimani@IBM-PF2F218L"
 }</con:request>
             <con:originalUri>https://api.github.com/user/keys</con:originalUri>
             <con:assertion type="Valid HTTP Status Codes" id="5615c45d-ddd1-4c61-9919-fec9a5fa8a0b" name="Valid HTTP Status Codes">
